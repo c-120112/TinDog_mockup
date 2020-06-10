@@ -158,6 +158,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .social-icon {
   margin: 20px 10px;
+  color: #8f8f8f;
+}
+
+.social-icon:hover {
+  color: black;
 }
 
 /* @media Section */
